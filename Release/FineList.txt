@@ -1,0 +1,10 @@
+PNV01	OOP	Tieng Viet	23/12/2018	30/12/2018	Da tra	10
+PNV01	OOPP	Tieng Viet	23/12/2018	30/12/2018	Da tra	10
+Tong so tien bi phat cua doc gia Vin Phan la: 200000
+
+PNV02	CSDL	Ngoai Van	25/12/2019	1/1/2019	Chua tra	8
+Tong so tien bi phat cua doc gia Phan Vinh la: 160000
+
+PNV08	NMLT	Tieng Viet	20/12/2018	27/12/2018	Da tra	13
+Tong so tien bi phat cua doc gia PV la: 130000
+
